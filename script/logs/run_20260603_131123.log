@@ -1,0 +1,5 @@
+===== START 03.06.2026 13:11:23,53 =====
+  File "C:\Users\studentcoll\Desktop\analiz\script\src\main.py", line 5
+    return f"[{status.upper^(^)}] {title}"
+                           ^
+SyntaxError: f-string: expecting '=', or '!', or ':', or '}'
